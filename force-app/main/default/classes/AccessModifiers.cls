@@ -18,4 +18,7 @@ public class AccessModifiers {
         System.debug('Name :'+ name);
         System.debug('Age :'+ age);
     }
+    public static String SayHi(){
+        return "HI";
+    }
 }
